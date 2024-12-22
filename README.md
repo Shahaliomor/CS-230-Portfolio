@@ -20,3 +20,4 @@ I carefully interpreted the client’s needs by engaging with their requirements
 ### Software Design Approach
 My design approach included breaking the project into components, using UML diagrams, and focusing on modularity. In future projects, I would incorporate more iterative feedback sessions to refine the design.
 
+https://github.com/Shahaliomor/CS-230-Portfolio/blob/main/Shah%20Ali%20Omor%20-%20CS%20230%20Project%20Software%20Design%20Template.docx
